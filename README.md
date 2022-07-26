@@ -1,4 +1,4 @@
-# Laravel-Nuxt-Template
+# LaravelNuxtTemplate
 
 ## このテンプレートリポジトリについて
 
