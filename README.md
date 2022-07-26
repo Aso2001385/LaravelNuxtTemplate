@@ -23,5 +23,9 @@ $ volta install yarn
 
 ### 環境構築リファレンス
 
-- [frontend](./reference/frontend.md)
-- [backend](./reference/backend.md)
+- .env.example ファイルの中身をもとに.env ファイルを作成する
+- .env ファイルの「YOUR\_~」を自分の好きな名称に書き換える
+- 以下を参照して各環境を構築する
+
+* [frontend](./reference/frontend.md)
+* [backend](./reference/backend.md)
