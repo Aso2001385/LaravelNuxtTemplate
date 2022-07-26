@@ -8,7 +8,7 @@ $ mkdir backend
 $ docker compose build
 
 # Dockerコンテナを立ち上げる
-$ docker compose up -docker
+$ docker compose up -d
 
 # APPコンテナに入る
 $ docker compose exec app bash
