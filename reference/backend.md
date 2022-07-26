@@ -33,6 +33,8 @@ $ docker compose up -d
 $ docker compose down
 # appコンテナへのログイン(Laravelコマンドを入力するコンテナ)
 $ docker compose exec app bash
-# migrate
+# dbコンテナへのログイン(DBを確認するコンテナ)
 $ docker compose exec db bash
+# コンテナから抜ける
+$ exit
 ```
